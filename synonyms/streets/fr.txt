@@ -24,7 +24,7 @@ cercle, cercl
 chalet, chl
 chaussée, chaussee, chs, chee
 chaussées, chaussees, chss, chees
-chemin, ch, che
+chemin, ch, che, chem
 cheminement, chem
 chemins, ches
 château, chateau, cht
