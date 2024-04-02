@@ -38,5 +38,9 @@ client.indices.create(req, (err, res) => {
     process.exit(1);
   }
   console.log('[put mapping]', '\t', indexName, res, '\n');
-  process.exit(!!err);
+  if (err) {
+    process.exit(1);
+  } else {
+    process.exit();
+  }
 });
